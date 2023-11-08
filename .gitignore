@@ -1,0 +1,5 @@
+# Sonar data
+sonarqube_*/
+
+# Environement file
+.env
